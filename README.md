@@ -35,7 +35,7 @@ Repository: https://github.com/MaxFlinker/TraySync
 - Procedural terrain generation  
 - Runtime and editor-time noise-based mesh deformation  
 - Multi-agent movement systems  
-Repository: (add your repo link)
+Repository: https://github.com/MaxFlinker/Unity3DToolset
 
 ---
 
@@ -53,3 +53,8 @@ MIDI, Audio Programming, Realtime Simulation, Procedural Geometry, File I/O, App
 If you want to collaborate or discuss any of the projects here, feel free to open an issue or reach out via GitHub.
 
 Created by **Max Christian Heinrich Flinker**.
+
+Related projects by the same author:
+- SimpleMidiPlayer
+- TraySync
+- Unity NPC Navigation Sandbox
