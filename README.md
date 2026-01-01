@@ -1,60 +1,53 @@
-## Hi there 👋
+# Max Christian Heinrich Flinker
 
-# Hi, I'm Max Christian Heinrich Flinker
+I am a C# developer specialized in MIDI systems, Windows application development, procedural simulation, and realtime engine tooling. My work blends low-level performance engineering with practical application design. I focus on building software that solves real problems: fast, precise, and reliable.
 
-I build practical, high-performance tools for Windows, audio pipelines, and real-time simulation environments.  
-My work focuses on **MIDI systems**, **WinForms utilities**, **file synchronization engines**, and **Unity AI/NPC navigation**.
+---
+
+## Core Focus Areas
+
+### Windows & .NET Engineering
+- MIDI playback engines (General MIDI, NAudio)
+- High-performance WinForms utilities
+- Asynchronous file synchronization engines
+- System tray workflows and background tasks
+
+### Simulation & Game Development
+- Unity multi-agent navigation
+- NPC avoidance and behavior systems
+- Procedural mesh/terrain generation
+- Custom editor tooling for runtime and editor-time workflows
 
 ---
 
 ## Featured Projects
 
-### 🎵 Simple MIDI Player
-Lightweight MIDI player with:
-- General MIDI instrument support  
-- Tempo and playback control  
-- Accurate timing (NAudio backend)  
-- Full WinForms UI  
+### Simple MIDI Player
+A complete Windows MIDI player written in C# using NAudio.  
+Includes GM instruments, tempo controls, playback state management, device routing, and improved timing stability.  
 Repository: https://github.com/MaxFlinker/SimpleMidiPlayer
 
----
-
-### 🗂️ TraySync / SyncEngine
-A robust file synchronization engine featuring:
-- Directory monitoring  
-- Asynchronous copy engine  
-- Progress reporting  
-- Automatic conflict handling  
+### TraySync / SyncEngine
+A fully asynchronous file synchronization system with a WinForms tray UI.  
+Features directory monitoring, safe concurrent operations, conflict management, progress reporting, and cancellation support.  
 Repository: https://github.com/MaxFlinker/TraySync
 
----
-
-### 🐾 Unity NPC & Player Simulation
-3D navigation sandbox designed for:
-- NPC avoidance and interactions  
-- Procedural terrain generation  
-- Runtime and editor-time noise-based mesh deformation  
-- Multi-agent movement systems  
+### Unity NPC Navigation Sandbox
+A navigation environment with NPCs, player/dog agents, avoidance behaviors, leash physics, and procedural terrain noise tooling.  
 Repository: https://github.com/MaxFlinker/Unity3DToolset
 
 ---
 
-## Tech Stack
+## Technical Stack
 
-**Languages**  
-C#, .NET, WinForms, Unity C#, WPF, Python (utility scripts)
-
-**Domains**  
-MIDI, Audio Programming, Realtime Simulation, Procedural Geometry, File I/O, App Utilities
+- **C# / .NET:** WinForms, async/await, file I/O, threading
+- **Audio:** MIDI, General MIDI, NAudio pipelines
+- **Unity:** NavMesh, AI agents, procedural systems, Editor scripting
+- **Build Tools:** GitHub Actions, MSBuild, .NET SDK
 
 ---
 
 ## Contact
-If you want to collaborate or discuss any of the projects here, feel free to open an issue or reach out via GitHub.
+Feel free to reach out via Issues or Pull Requests if you want to collaborate or discuss any of the above projects.
 
 Created by **Max Christian Heinrich Flinker**.
-
-Related projects by the same author:
-- SimpleMidiPlayer
-- TraySync
-- Unity NPC Navigation Sandbox
